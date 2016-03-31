@@ -1,0 +1,28 @@
+name: OliviaBessonYoga
+favicon: null
+layout_spectrum: 0.9428914082236588
+typography_spectrum: 0.32127325516194105
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5509668299928308
+  lightness: 0.975720546208322
+  saturation: 0.16694826795719564
+  rhythmicContrast: 0.31222806335426867
+purpose: []
