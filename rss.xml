@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OliviaBessonYoga]]></title>
         <description><![CDATA[OliviaBessonYoga]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/oliviabessonyoga/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:04:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Apr 2016 08:24:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/oliviabessonyoga/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[http://thedailyquotes.com/the-lotus-flower/]]></title>
+            <description><![CDATA[<article><h1>http://thedailyquotes.com/the-lotus-flower/</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5d4ea14f-7877-4a65-a460-8880d2eb8a31.jpg"></article>]]></description>
+            <link>https://thegrid.ai/oliviabessonyoga/httpthedailyquotescomthe-lotus-flower/index.html</link>
+            <guid isPermaLink="false">c0196e4b-5441-48df-853e-d0a45b84fd8d</guid>
+            <pubDate>Tue, 05 Apr 2016 08:24:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>About</p>]]></description>
-            <link>undefineda0403343-532d-440b-8f36-36672af9ed5f/index.html</link>
+            <link>https://thegrid.ai/oliviabessonyoga/a0403343-532d-440b-8f36-36672af9ed5f/index.html</link>
             <guid isPermaLink="false">a0403343-532d-440b-8f36-36672af9ed5f</guid>
             <pubDate>Tue, 05 Apr 2016 07:04:16 GMT</pubDate>
         </item>
